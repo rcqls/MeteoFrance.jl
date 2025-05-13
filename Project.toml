@@ -1,0 +1,7 @@
+name = "MeteoFrance"
+uuid = "f2ba429f-7d4e-4570-9ec6-9c661d833cf0"
+authors = ["R cqls <rdrouilh@gmail.com>"]
+version = "0.0.1"
+
+[compat]
+julia = "1.10"
