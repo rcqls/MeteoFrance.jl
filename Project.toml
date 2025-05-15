@@ -3,5 +3,15 @@ uuid = "f2ba429f-7d4e-4570-9ec6-9c661d833cf0"
 authors = ["R cqls <rdrouilh@gmail.com>"]
 version = "0.0.1"
 
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+
 [compat]
+CSV = "0.10.15"
+DataFrames = "1.7.0"
+Dates = "1.11.0"
+Downloads = "1.6.0"
 julia = "1.10"
